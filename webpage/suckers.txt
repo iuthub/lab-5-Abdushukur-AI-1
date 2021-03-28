@@ -1,0 +1,4 @@
+Abdushukur;MB;000111;Master
+Isomuhammad;MB;222333;Visa
+Abdulloh;MF;444555;Master
+
